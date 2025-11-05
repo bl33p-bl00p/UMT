@@ -1,3 +1,3 @@
-# Unciv-mod-memory-of-atlantis
+# Unciv Mod Test
 
-The Memory of Atlantis is a natural wonder that provides 10 of each yield. It's a cheat. Place it on your starting location and build your 1st city on it.
+OK it's just for testing mods..
