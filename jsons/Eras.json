@@ -16,6 +16,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era1",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -29,6 +30,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era2",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -42,6 +44,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era3",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -55,6 +58,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era4",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -68,6 +72,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era5",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -81,6 +86,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era6",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -94,6 +100,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era7",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -107,6 +114,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era8",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -120,6 +128,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era9",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -133,6 +142,7 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
         "name": "Ancient era10",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
