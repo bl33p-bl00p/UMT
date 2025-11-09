@@ -13,18 +13,8 @@
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
 		"startBias": ["Avoid [Tundra]"],
-@@ -39,1642 +31,6 @@
-			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
-			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
-	},
-    {
-		"name": "Greece",
-		"leaderName": "Alexander",
-		"adjective": ["Greek"],
-		"startBias": ["Coast"],
-		"preferredVictoryType":"Diplomatic",
-		"personality": "Alexander",
+		"preferredVictoryType": "Scientific",
+		"personality": "Nebuchadnezzar II",
 
 		"startIntroPart1": "Great King Alexander, leader of the mighty Greek nation, you are truly blessed by the gods. In 480 BC, quarrelsome city-states such as Athens, Sparta, Thebes, found a way to join their forces, allowing Greece to defeat the mighty Persia in the 5th century BC, both on land and sea. Following their example, you lead a Greek coalition and finally struck down the Persian Empire in 331 BC. You conquered almost all the known world, and from Europe to Africa to India, you built an empire unmatched by any before it.",
 		"startIntroPart2": "Megalexandros, son of Zeus, will you ride Bucephalas again, to gift the world with the brightness of the Greek culture? Will your new empire shine through the ages of history?",
