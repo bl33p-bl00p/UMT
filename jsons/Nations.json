@@ -16,6 +16,38 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Nebuchadnezzar II",
 
+		"startIntroPart1": "May the gods bless you, great Nebuchadnezzar, ruler of ancient Babylon! Built 5000 years ago, Babylon emerged as an empire in 1800 BC, thanks to godlike Hammurabi, The Giver of Law. Falling under the Kassites assaults then the Assyrian domination, Babylon was reborn from its ashes, gaining back its independance, and became the beacon for Arts and Learning in the ancient world. O Nebuchadnezzar, after your death, Babylon quickly fell, conquered by the mighty Persians, and then by the Greeks, until the great city disappeared forever in 141 BC.",
+		"startIntroPart2": "Great Nebuchadnezzar, Babylon's glory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Islam",
+		"uniqueName": "Ingenuity",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    {
+		"name": "Greece",
+		"leaderName": "Alexander",
+		"adjective": ["Greek"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+		"personality": "Alexander",
+
 		"startIntroPart1": "Great King Alexander, leader of the mighty Greek nation, you are truly blessed by the gods. In 480 BC, quarrelsome city-states such as Athens, Sparta, Thebes, found a way to join their forces, allowing Greece to defeat the mighty Persia in the 5th century BC, both on land and sea. Following their example, you lead a Greek coalition and finally struck down the Persian Empire in 331 BC. You conquered almost all the known world, and from Europe to Africa to India, you built an empire unmatched by any before it.",
 		"startIntroPart2": "Megalexandros, son of Zeus, will you ride Bucephalas again, to gift the world with the brightness of the Greek culture? Will your new empire shine through the ages of history?",
 
@@ -65,7 +97,7 @@
 
 		"favoredReligion": "Taoism",
 		"uniqueName": "Art of War",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster", "Civilization is available from the [Medieval era] onwards", "Evolves into [Egypt] upon reaching [Ancient era2]"],
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster", "Civilization is available from the [Ancient era1] onwards", "Evolves into [Egypt] upon reaching [Ancient era2]"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
@@ -98,7 +130,7 @@
 		"innerColor": [83, 0, 208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]", "Civilization is available from the [Medieval era] onwards", "Evolves into [England] upon reaching [Ancient era3]"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]", "Civilization is available from the [Ancient era2 era] onwards", "Evolves into [England] upon reaching [Ancient era3]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -129,7 +161,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>", "Civilization is available from the [Medieval era] onwards", "Evolves into [France] upon reaching [Ancient era4]"],
+		"uniques": ["[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>", "Civilization is available from the [Ancient era3 era] onwards", "Evolves into [France] upon reaching [Ancient era4]"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
@@ -159,7 +191,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ancien Régime",
-		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>", "Civilization is available from the [Medieval era] onwards", "Evolves into [Russia] upon reaching [Ancient era5]"],
+		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>", "Civilization is available from the [Ancient era4 era] onwards", "Evolves into [Russia] upon reaching [Ancient era5]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
